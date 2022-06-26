@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @johnydmic
-- 👀 I’m interested in tec I am fairly new at this I am learning code mostly java and unix
-- 🌱 I’m currently learning code android development web development 
-- 💞️ I’m looking to collaborate on I have successfully rooted a galaxy tab E T377T with nugatory 7.1 
-- im trying to get a custom ROM to work on device
-- 📫 How to reach me ...
+- 👀 I’m interested in tech im a newbie for sure. Im currently working on learning Java, and linux. 
+- 🌱 I’m currently teaching myself code, android development, and web development. 
+- 💞️ I’m looking to collaborate with great minds. I have a t mobile galaxy Tab E (2016) It's had a couple custom ROMS 
+- on it at this point.
+- So, ya lets keep moving towards FREEDOM!!!!!
 
 
 <!---
